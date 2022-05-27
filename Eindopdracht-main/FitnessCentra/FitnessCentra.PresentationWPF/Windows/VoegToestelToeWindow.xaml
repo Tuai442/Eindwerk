@@ -1,0 +1,19 @@
+﻿<Window x:Class="FitnessCentra.PresentationWPF.Windows.VoegToestelToeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FitnessCentra.PresentationWPF.Windows"
+        mc:Ignorable="d"
+        Title="VoegToestelToeWindow" Height="200" Width="200">
+    <Grid Background="#FF7E92A4">
+        <StackPanel>
+            
+            <ComboBox x:Name="typeToestellenCombobox" HorizontalAlignment="Center" Margin="0,58,0,0" VerticalAlignment="Top" Width="120" Text="Type" IsEditable="True"/>
+            <Button Content="Voeg toestel toe" Click="VoegToestelToe_Click" Width="120" Margin="10"></Button>
+            
+        </StackPanel>
+        
+
+    </Grid>
+</Window>

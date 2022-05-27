@@ -1,0 +1,20 @@
+﻿FitnessCentra.PresentationWPF
+
+
+winexe
+C#
+.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\
+FitnessCentra.PresentationWPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\App.xaml
+141762957862
+
+16685218585
+198-812210915
+Components\Callender.xaml;Components\Labels\GrootLabel.xaml;Components\Labels\Label1.xaml;Components\MenuButton.xaml;Components\Optiebox\OptieBox2.xaml;Components\Panelen\BeheerdersPaneel.xaml;Components\Panelen\RezerveerPaneel.xaml;Components\Tijdslot\Slot.xaml;Components\Tijdslot\TijdslotKiezer.xaml;Components\WindowMenu.xaml;MainWindow.xaml;Pages\HoofdPagina.xaml;Windows\LogInWindow.xaml;Windows\VoegToestelToeWindow.xaml;
+
+False
+

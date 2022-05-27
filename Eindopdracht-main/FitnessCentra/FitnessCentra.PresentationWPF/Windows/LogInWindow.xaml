@@ -1,0 +1,85 @@
+﻿<Window x:Class="FitnessCentra.PresentationWPF.Windows.LogInWindow"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:components="clr-namespace:FitnessCentra.PresentationWPF.Components"
+        xmlns:optiebox="clr-namespace:FitnessCentra.PresentationWPF.Components.Optiebox"
+
+        
+        
+        mc:Ignorable="d"
+        Title="LogInWindow" Height="381" Width="350" MinWidth="350" MinHeight="380">
+
+
+    <Grid Background="Transparent" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="189*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Background="#FF272829" CornerRadius="10" BorderBrush="Orange" BorderThickness="3" Grid.RowSpan="2">
+            <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="250">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <StackPanel Background="#FF272829" >
+                    <Border BorderThickness="1 1 1 0" 
+                            BorderBrush="Black" 
+                            CornerRadius="10 10 0 0"
+                            Width="150"
+                            HorizontalAlignment="Left">
+                        <Label Content="Email / Klant Nr." Foreground="#FFCA8C1D"  HorizontalAlignment="Left" FontSize="16" ></Label>
+
+                    </Border>
+
+                    <Border BorderThickness="1" BorderBrush="Black"
+                            CornerRadius="0 10 10 10">
+                        <StackPanel Orientation="Horizontal" >
+                            <TextBox x:Name="emailTxtBox" TextAlignment="Right" Margin="5" Foreground="White" BorderThickness="0" FontSize="16" Background="#FF272829" Width="159"></TextBox>
+                        </StackPanel>
+
+
+
+
+                    </Border>
+                    <Border Margin="10" CornerRadius="10"
+                            BorderThickness="1"
+                            Background="#FF6D512F" 
+                            Padding="3">
+                        <!--Background="#FF6D512F"-->
+                        <Button FontSize="18" Content="Log in als klant" 
+                                Background="#FF6D512F" 
+                                HorizontalAlignment="Stretch" 
+                                VerticalAlignment="Bottom"
+                                BorderBrush="#FF6D512F"
+                                Click="LogIn_klant"/>
+                    </Border>
+
+                    <Border Margin="10" CornerRadius="10"
+                            BorderThickness="1"
+                            Background="#FF6D512F" 
+                            Padding="3">
+                        <!--Background="#FF6D512F"-->
+                        <Button FontSize="18" Content="Log in als beheerder" 
+                                Background="#FF6D512F" 
+                                HorizontalAlignment="Stretch" 
+                                VerticalAlignment="Bottom"
+                                BorderBrush="#FF6D512F"
+                                Click="LogIn_beheerder"/>
+                    </Border>
+
+                </StackPanel>
+
+
+            </Grid>
+        
+        </Border>
+        <components:WindowMenu x:Name="windowMenu"></components:WindowMenu>
+    </Grid>
+
+
+</Window>

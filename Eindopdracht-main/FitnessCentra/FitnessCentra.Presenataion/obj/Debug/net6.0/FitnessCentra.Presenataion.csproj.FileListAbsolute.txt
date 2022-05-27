@@ -1,0 +1,45 @@
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.AssemblyReference.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.AssemblyInfoInputs.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.AssemblyInfo.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.deps.json
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Domain.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.CopyComplete
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\refint\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\ref\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.deps.json
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Domain.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.AssemblyReference.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.AssemblyInfoInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.AssemblyInfo.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.CopyComplete
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\refint\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\ref\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.deps.json
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Presenataion.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Domain.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\bin\Debug\net6.0\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.AssemblyReference.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.AssemblyInfoInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.AssemblyInfo.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.csproj.CopyComplete
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\refint\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\FitnessCentra.Presenataion.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Presenataion\obj\Debug\net6.0\ref\FitnessCentra.Presenataion.dll

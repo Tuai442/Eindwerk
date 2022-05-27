@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="FitnessCentra.PresentationWPF.Components.Optiebox.OptieBox2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FitnessCentra.PresentationWPF.Components.Optiebox"
+             xmlns:components="clr-namespace:FitnessCentra.PresentationWPF.Components"
+             x:Name="root"
+
+             mc:Ignorable="d" 
+             Height="70" Width="250"
+             Margin="10">
+
+    <Grid Width="250" Height="198" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition x:Name="tHeigth" Height="200"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" BorderBrush="Orange"
+                BorderThickness="1"
+                CornerRadius="7"
+                Background="#FF636363"
+                Margin="2">
+            <Button Foreground="Black" BorderThickness="0"
+                    Background="#FF636363"
+                    Margin="3"
+                    Click="Button_Click">
+                <Button.Content>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="180"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Orientation="Horizontal" Width="auto" VerticalAlignment="Center" >
+                            <StackPanel>
+                                <Label Content="{Binding Uur, ElementName=root}" Foreground="White" FontSize="10" Padding="0" />
+                                <!--{Binding Uur, ElementName=root}-->
+                                <Label Content="{Binding Titel, ElementName=root}" Foreground="White" />
+                                <!--{Binding Titel, ElementName=root}-->
+                            </StackPanel>
+
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1" Margin="0 10 0 0">
+                            <Label Content="{Binding Text, ElementName=root}" HorizontalAlignment="Right"></Label>
+                        </StackPanel>
+                    </Grid>
+
+                </Button.Content>
+            </Button>
+            <!--Content="{Binding Title, ElementName=root}"-->
+        </Border>
+
+
+        <ScrollViewer Grid.Row="1" x:Name="dropDownLijst" Visibility="Collapsed" Height="130" VerticalAlignment="Top">
+            <StackPanel x:Name="selectieLijst"
+                            VerticalAlignment="Stretch"
+                            Width="200"
+                            Background="#FF636363"
+                            Orientation="Vertical">
+            </StackPanel>
+        </ScrollViewer>
+
+
+    </Grid>
+
+</UserControl>

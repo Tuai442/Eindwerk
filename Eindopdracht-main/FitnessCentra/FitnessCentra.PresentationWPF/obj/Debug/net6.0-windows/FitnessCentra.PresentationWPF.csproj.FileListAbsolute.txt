@@ -1,0 +1,196 @@
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.AssemblyReference.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF_MarkupCompile.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF_MarkupCompile.lref
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.exe
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.deps.json
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.runtimeconfig.json
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.g.resources
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.AssemblyInfoInputs.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.AssemblyInfo.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\refint\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.genruntimeconfig.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\ref\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Domain.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Presenataion.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.CopyComplete
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\InfoVenster1.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\InfoVenster1.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\EigenshapLabel1.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\EigenshapLabel1.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\AccountInfoHover.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\AccountInfoHover.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\LogInWindow.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\LogInWindow.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\WindowMenu.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\WindowMenu.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\DagPlanning.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\DagPlanning.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Pages\HoofdPagina.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Pages\HoofdPagina.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\MenuButton.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\MenuButton.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Label1.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Label1.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Optiebox\OptieBox1.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Optiebox\OptieBox2.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Optiebox\OptieBox1.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Optiebox\OptieBox2.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\Slot.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\TijdSlotKiezer.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\Slot.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\TijdSlotKiezer.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Callender.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Callender.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\BeheerdersPaneel.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\BeheerdersPaneel.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\RezerveerPaneel.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\RezerveerPaneel.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Labels\GrootLabel.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Labels\GrootLabel.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\PopUpCallender.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\PopUpCallender.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\test.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\test.baml
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\VoegToestelToeWindow.g.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\VoegToestelToeWindow.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.exe
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.deps.json
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.runtimeconfig.json
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Domain.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Presenataion.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Presenataion.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.AssemblyReference.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\WindowMenu.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\AccountInfoHover.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Callender.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\DagPlanning.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\EigenshapLabel1.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\InfoVenster1.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Label1.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Labels\GrootLabel.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\MenuButton.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Optiebox\OptieBox2.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\BeheerdersPaneel.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\RezerveerPaneel.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\Slot.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\TijdslotKiezer.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\WindowMenu.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Pages\HoofdPagina.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\LogInWindow.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\PopUpCallender.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\VoegToestelToeWindow.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF_MarkupCompile.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF_MarkupCompile.lref
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\AccountInfoHover.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Callender.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\DagPlanning.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\EigenshapLabel1.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\InfoVenster1.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Label1.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Labels\GrootLabel.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\MenuButton.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Optiebox\OptieBox2.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\BeheerdersPaneel.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\RezerveerPaneel.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\Slot.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\TijdslotKiezer.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Pages\HoofdPagina.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\LogInWindow.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\PopUpCallender.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\VoegToestelToeWindow.baml
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.g.resources
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.AssemblyInfoInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.AssemblyInfo.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.CopyComplete
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\refint\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.genruntimeconfig.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\ref\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.exe
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.deps.json
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.runtimeconfig.json
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.PresentationWPF.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Domain.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\bin\Debug\net6.0-windows\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.AssemblyReference.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\WindowMenu.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Callender.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Labels\GrootLabel.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\MenuButton.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Optiebox\OptieBox2.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\BeheerdersPaneel.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\RezerveerPaneel.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\Slot.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\TijdslotKiezer.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\WindowMenu.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Pages\HoofdPagina.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\LogInWindow.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\VoegToestelToeWindow.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF_MarkupCompile.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF_MarkupCompile.lref
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Callender.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Labels\GrootLabel.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\MenuButton.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Optiebox\OptieBox2.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\BeheerdersPaneel.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Panelen\RezerveerPaneel.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\Slot.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Tijdslot\TijdslotKiezer.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Pages\HoofdPagina.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\LogInWindow.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Windows\VoegToestelToeWindow.baml
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.g.resources
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.AssemblyInfoInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.AssemblyInfo.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.csproj.CopyComplete
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\refint\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\FitnessCentra.PresentationWPF.genruntimeconfig.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\ref\FitnessCentra.PresentationWPF.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Labels\Label1.g.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.PresentationWPF\obj\Debug\net6.0-windows\Components\Labels\Label1.baml

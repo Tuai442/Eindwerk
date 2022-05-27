@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.StartUp\\DataInstellen.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Domain\\FitnessCentra.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Domain\\FitnessCentra.Domain.csproj",
+        "projectName": "FitnessCentra.Domain",
+        "projectPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Domain\\FitnessCentra.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tuur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Persictance\\FitnessCentra.Persictance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Persictance\\FitnessCentra.Persictance.csproj",
+        "projectName": "FitnessCentra.Persictance",
+        "projectPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Persictance\\FitnessCentra.Persictance.csproj",
+        "packagesPath": "C:\\Users\\Tuur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Persictance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Domain\\FitnessCentra.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Domain\\FitnessCentra.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.StartUp\\DataInstellen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.StartUp\\DataInstellen.csproj",
+        "projectName": "DataInstellen",
+        "projectPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.StartUp\\DataInstellen.csproj",
+        "packagesPath": "C:\\Users\\Tuur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.StartUp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Domain\\FitnessCentra.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Domain\\FitnessCentra.Domain.csproj"
+              },
+              "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Persictance\\FitnessCentra.Persictance.csproj": {
+                "projectPath": "C:\\Users\\Tuur\\Desktop\\Eindopdracht-main (2)\\Eindopdracht-main\\FitnessCentra\\FitnessCentra.Persictance\\FitnessCentra.Persictance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

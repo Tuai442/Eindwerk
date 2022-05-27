@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="FitnessCentra.PresentationWPF.Components.MenuButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FitnessCentra.PresentationWPF.Components"
+             x:Name="root"
+             mc:Ignorable="d" 
+             d:DesignHeight="60" d:DesignWidth="150">
+    
+    <Border BorderBrush="#FFFF6900"
+            CornerRadius="3 15 15 3"
+            BorderThickness="2 2 3 5"
+            Background="#FF8A6C5B"
+            Height="40" Margin="10">
+        <Grid>
+            <Button Content="{Binding Text, ElementName=root}" Click="Button_Click"
+                    BorderThickness="0" 
+                    Background="Transparent"
+                    FontSize="20"
+                    />
+        </Grid>
+    </Border>
+   
+</UserControl>

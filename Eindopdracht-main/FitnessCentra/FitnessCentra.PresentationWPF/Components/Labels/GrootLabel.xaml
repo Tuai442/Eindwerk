@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="FitnessCentra.PresentationWPF.Components.Labels.GrootLabel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FitnessCentra.PresentationWPF.Components.Labels"
+             x:Name="root"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="150"
+             Margin="5">
+    
+    <Border   BorderBrush="#FF803737"
+              BorderThickness="2" CornerRadius="4"
+              
+              Width="150"
+              Height="150" Background="#FF865E5E"><!--Background="{Binding BackgroundColor, ElementName=root}"-->
+
+        <Grid MouseDown="Grid_MouseDown">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Column="0" Content="{Binding LText, ElementName=root}"
+                   Margin="5 0 0 0" FontFamily="Calibri"
+                   FontSize="16"
+                   /> <!--Content="{Binding LText, ElementName=root}-->
+
+            <Label Grid.Column="1" Content="{Binding RText, ElementName=root}"
+                   HorizontalAlignment="Right" FontSize="16"
+                   Margin="0 0 10 0" FontFamily="Calibri"/>
+
+
+            <WrapPanel Grid.Row="1" Grid.ColumnSpan="2" Orientation="Vertical" x:Name="tabelWrapper">
+                <!--<TextBlock FontFamily="Century Gothic"
+                          LineHeight="Auto"
+                          Padding="5,10,5,10"
+                          TextAlignment="Center"
+                          TextWrapping="Wrap"
+                          Text=""/>-->
+
+            </WrapPanel>
+
+            <Grid.Style>
+                <Style TargetType="{x:Type Grid}">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FFD63B3B"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style >
+
+        </Grid>
+
+    </Border>
+</UserControl>

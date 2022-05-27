@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Components\Overige\**" />
+    <Compile Remove="Interfaces\**" />
+    <EmbeddedResource Remove="Components\Overige\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
+    <None Remove="Components\Overige\**" />
+    <None Remove="Interfaces\**" />
+    <Page Remove="Components\Overige\**" />
+    <Page Remove="Interfaces\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FitnessCentra.Domain\FitnessCentra.Domain.csproj" />
+    <ProjectReference Include="..\FitnessCentra.Persictance\FitnessCentra.Persictance.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,45 @@
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.deps.json
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Domain.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.AssemblyReference.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.AssemblyInfoInputs.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.AssemblyInfo.cs
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.CopyComplete
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\refint\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Documents\Gegevens\BACK_UP_LAPTOP\hogent\programeren gevorderd\eindodracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\ref\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.deps.json
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Domain.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.AssemblyReference.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.AssemblyInfoInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.AssemblyInfo.cs
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.CopyComplete
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\refint\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Desktop\Eindopdracht\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\ref\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.AssemblyReference.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.AssemblyInfoInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.AssemblyInfo.cs
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.CoreCompileInputs.cache
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\refint\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.deps.json
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Persictance.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Domain.dll
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\bin\Debug\net6.0\FitnessCentra.Domain.pdb
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\FitnessCentra.Persictance.csproj.CopyComplete
+C:\Users\Tuur\Desktop\Eindopdracht-main (2)\Eindopdracht-main\FitnessCentra\FitnessCentra.Persictance\obj\Debug\net6.0\ref\FitnessCentra.Persictance.dll

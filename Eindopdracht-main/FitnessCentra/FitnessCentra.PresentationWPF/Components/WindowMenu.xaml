@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="FitnessCentra.PresentationWPF.Components.WindowMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Name="root"
+
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+            
+    <Grid x:Name="windowMenu">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="343*"/>
+            <ColumnDefinition Width="57*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Border VerticalAlignment="Top"
+                Background="#FF11100E"
+                Height="30"
+                BorderBrush="#FFB78324" 
+                BorderThickness="4"
+                CornerRadius="10"
+                Grid.ColumnSpan="2"
+                MouseLeftButtonDown="Border_MouseLeftButtonDown">
+            <StackPanel  HorizontalAlignment="Right"
+                         Margin="2"
+                         Orientation="Horizontal" >
+                
+                <Button Click="Verklein_click" Width="15" Height="15"
+                        Margin="0 0 5 0" Background="Transparent" 
+                        Foreground="Transparent" BorderBrush="Transparent">
+                    <Ellipse Fill="Yellow" Width="10" Height="10">
+                    </Ellipse>
+                </Button>
+
+                <Button Click="Vergroot_click" Width="15" Height="15"
+                        Margin="0 0 5 0" Background="Transparent" 
+                        Foreground="Transparent" BorderBrush="Transparent">
+                    <Ellipse Fill="Green" Width="10" Height="10">
+                    </Ellipse>
+                </Button>
+
+                <Button  Click="Sluit_click" Width="15" Height="15"
+                         Margin="0 0 5 0" Background="Transparent"
+                         Foreground="Transparent" BorderBrush="Transparent">
+                    <Ellipse Fill="Red" Width="10" Height="10" HorizontalAlignment="Center" >
+                    </Ellipse>
+
+
+                </Button>
+
+            </StackPanel>
+        </Border>
+
+
+
+    </Grid>
+</UserControl>

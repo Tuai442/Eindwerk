@@ -1,0 +1,23 @@
+﻿<Window x:Class="FitnessCentra.PresentationWPF.MainWindow"
+        WindowStyle="None"
+        WindowState="Maximized"
+
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:components="clr-namespace:FitnessCentra.PresentationWPF.Components"
+
+        
+
+        mc:Ignorable="d"
+        Title="MainWindow"  MinWidth="1140" MinHeight="500">
+    <Grid Background="#FF1E1D1D">
+        <components:WindowMenu x:Name="windowMenu"></components:WindowMenu>
+
+        <Frame x:Name="mainFrame" AutomationProperties.Name="frame1"/>
+
+    </Grid>
+    
+</Window>

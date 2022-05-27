@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Components\Callender.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Labels\Label1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Labels\GrootLabel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\MenuButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Optiebox\OptieBox2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Panelen\BeheerdersPaneel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Panelen\RezerveerPaneel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Tijdslot\Slot.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Tijdslot\TijdslotKiezer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\WindowMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\HoofdPagina.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\LogInWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\VoegToestelToeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Components\Callender.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Labels\Label1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Labels\GrootLabel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Optiebox\OptieBox2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Panelen\BeheerdersPaneel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Panelen\RezerveerPaneel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Tijdslot\Slot.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Tijdslot\TijdslotKiezer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\WindowMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\HoofdPagina.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\LogInWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\VoegToestelToeWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
